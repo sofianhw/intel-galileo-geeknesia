@@ -1,0 +1,16 @@
+{
+  "name": "galileo-geeknesia",
+  "version": "1.0.0",
+  "description": "menghubungkan galileo ke geeknesia",
+  "main": "galileo-geeknesia.js",
+  "dependencies": {
+    "galileo-io": "^0.8.14",
+    "mqtt": "^1.1.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sofian hadiwijaya",
+  "license": "ISC"
+}
